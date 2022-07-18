@@ -68,5 +68,7 @@ nav.navbar .navbar-expand-md .bg-light .navbar-light ul li a:hover:after {
 	color: black;
 	margin: 20px;
 	text-align: center;
+  line-height: 1;
+  justify-content: center;
 }
 

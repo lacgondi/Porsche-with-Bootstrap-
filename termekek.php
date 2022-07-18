@@ -29,7 +29,7 @@ $output = mysqli_fetch_all($result, MYSQLI_ASSOC);
                         </a>
                     </div>
                     <div class="product-content">
-                        <h3 class="title">Porsche 911 Carrera S (2019)</h3>
+                        <h3 class="title"><?php echo $item['name'] ?></h3>
                         <div class="price"><?php echo $item['price']; ?> EUR</div>
                         <a class="add-to-cart" href="kapcsolat.php">Vásárlás</a>
                     </div>
