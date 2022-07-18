@@ -11,7 +11,7 @@
       </p>
     </div>
     <div class="col-sm-4">
-      <img class="img-fluid" id="alapito" src="alapito.jpg">
+      <img class="img-fluid" id="lapito" alt="Alapító" src="/images/alapito.jpg">
     </div>
   </div>
 </div>
@@ -38,7 +38,7 @@
   <div class="row">
     <div class="col-sm-6">
       <div class="card">
-        <img class="card-img-top justify-content-center align-self-center" src="ceo.jpg" style="max-width: 300px; max-height: 400px" alt="ceo">
+        <img class="card-img-top justify-content-center align-self-center" src="/images/ceo.jpg" style="max-width: 300px; max-height: 400px" alt="Ceo">
         <div class="card-body justify-content-center align-self-center">
           <h2 class="card-title" style="padding-left: 70px">Oliver Blume</h2>
           <h4 class="card-title">Jelenlegi Porsche Vezérigazgató</h4>
@@ -48,7 +48,7 @@
     </div>
     <div class="col-sm-6">
       <div class="card">
-        <img class="card-img-top justify-content-center align-self-center" src="chairman.jpg" style="max-width: 300px; min-height: 400px; max-height: 400px" alt="chairman">
+        <img class="card-img-top justify-content-center align-self-center" src="/images/chairman.jpg" style="max-width: 300px; min-height: 400px; max-height: 400px" alt="Chairman">
         <div class="card-body justify-content-center align-self-center">
           <h2 class="card-title">Wolfgang Porsche</h2>
           <h4 class="card-title">Jelenlegi Porsche Elnök</h4>
@@ -60,8 +60,6 @@
 </div>
 
 <?php include('inc/footer.php'); ?>
-
-
 </body>
 
 </html>

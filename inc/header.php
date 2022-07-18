@@ -15,7 +15,7 @@
 
 <body>
     <nav class="navbar navbar-expand-md bg-light navbar-light">
-        <a class="navbar-brand" href="#"><img src="logo.jpg" width="35" class="d-inline-block align-top" alt="Logo">
+        <a class="navbar-brand" href="#"><img src="/images/logo.jpg" width="35" class="d-inline-block align-top" alt="Logo">
         </a>
 
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
@@ -25,13 +25,13 @@
         <div class="collapse navbar-collapse" id="collapsibleNavbar">
             <ul class="navbar-nav">
                 <li class="nav-item active">
-                    <a class="nav-link active" href="#">Rólunk</a>
+                    <a class="nav-link active" href="index.php">Rólunk</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="termekek.html">Termékek</a>
+                    <a class="nav-link" href="termekek.php">Termékek</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="kapcsolat.html">Kapcsolat és rendelés</a>
+                    <a class="nav-link" href="kapcsolat.php">Kapcsolat és rendelés</a>
                 </li>
             </ul>
         </div>
